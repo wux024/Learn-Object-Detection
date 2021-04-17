@@ -4,9 +4,9 @@ This task is mainly divided into three steps for target detection. The first ste
 The weight file used in the code can be downloaded from the website.
 
 1.https://pjreddie.com/darknet/yolo/
-2.
-3.https://github.com/tensorflow/models/tree/master/research/object_detection
-4.
-5.https://github.com/AlexeyAB/darknet
-6.
-7.https://github.com/WongKinYiu/PyTorch_YOLOv4
+
+2.https://github.com/tensorflow/models/tree/master/research/object_detection
+
+3.https://github.com/AlexeyAB/darknet
+
+4.https://github.com/WongKinYiu/PyTorch_YOLOv4
